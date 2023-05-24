@@ -1,5 +1,5 @@
 # DeepThought-Event-API-Documentation
-
+## API Documentation Link - https://documenter.getpostman.com/view/22370570/2s93m4ZPT6
 
 ### Get Event by ID
 ```
